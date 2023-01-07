@@ -12,6 +12,7 @@ If you believe you have found a security vulnerability in our project, please do
 
 - Do **not** open a public issue.
 - Create a ticket on [Discord](https://discord.gg/j6MatB3AbH) and send a message with a description of the vulnerability and any related information (e.g. reproduction steps) to the ticket.
+- **Or** create a security advice at the GitHub repository. (it can be found under the Security section)
 
 Our security team will acknowledge your message and send a response indicating the next steps in handling your report.
 
