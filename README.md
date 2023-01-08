@@ -19,11 +19,11 @@ Some common files that you might find in a `.github` repository include:
 - `SECURITY.md`: This file provides guidelines for reporting security vulnerabilities in the repository.
 
 - `SUPPORT.md`: This file provides information on how users can get support for the repository, such as through forums or chat channels.
-    
+
 - `profile/bio.md`: This file contains a short bio or description of the organization.
 
 - `profile/avatar.png`: This file is an image that will be used as the organization avatar on GitHub.
 
 - `profile/social.yml`: This file contains a list of social media links associated with the organization.
 
-- `profile/README.md`: This file will appear on the organization's profile. 
+- `profile/README.md`: This file will appear on the organization's profile.

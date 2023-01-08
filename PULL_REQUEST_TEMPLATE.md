@@ -1,4 +1,4 @@
-## Description
+# Description
 
 Please include a summary of the change and which issue is fixed. Please also include relevant motivation and context. List any dependencies that are required for this change.
 
@@ -23,11 +23,11 @@ Please describe the tests that you ran to verify your changes. Provide instructi
 
 Please delete options that are not relevant.
 
-* Python: (e.g. Python-3.11, PyPy3.9-v7.3.11)
-* OS: (e.g. Windows 11, Fedora 37)
-* CC-Emulator: (e.g. CraftOS-PC-v2.7.2, CC-Tweaked-1.19.2-1.101.1)
+- Python: (e.g. Python-3.11, PyPy3.9-v7.3.11)
+- OS: (e.g. Windows 11, Fedora 37)
+- CC-Emulator: (e.g. CraftOS-PC-v2.7.2, CC-Tweaked-1.19.2-1.101.1)
 
-# Checklist:
+## Checklist
 
 - [ ] My code follows the style guidelines of this project (all lints have passed)
 - [ ] I have performed a self-review of my own code
