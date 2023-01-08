@@ -6,8 +6,6 @@ The `.github` repository is a special repository that is used to store files rel
 
 Some common files that you might find in a `.github` repository include:
 
-- `ISSUE_TEMPLATE.md`: This file contains templates for issues that can be used as a starting point when creating new issues.
-
 - `PULL_REQUEST_TEMPLATE.md`: This file contains templates for pull requests that can be used as a starting point when creating new pull requests.
 
 - `CODE_OF_CONDUCT.md`: This file outlines the code of conduct for the repository, which sets out the expectations for behavior and conduct for contributors and users.
@@ -19,6 +17,8 @@ Some common files that you might find in a `.github` repository include:
 - `SECURITY.md`: This file provides guidelines for reporting security vulnerabilities in the repository.
 
 - `SUPPORT.md`: This file provides information on how users can get support for the repository, such as through forums or chat channels.
+
+- `.github/ISSUE_TEMPLATE`: This folder contains predefined templates for issues, which can provide guidance to users on what information to include when opening an issue and help ensure that important details are not overlooked.
 
 - `profile/bio.md`: This file contains a short bio or description of the organization.
 
