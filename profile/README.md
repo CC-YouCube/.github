@@ -11,6 +11,9 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
+[![Project license](https://img.shields.io/github/license/Commandcracker/YouCube?style=for-the-badge)](https://github.com/CC-YouCube/.github/blob/main/LICENSE.txt)
+[![Mentioned in Awesome ComputerCraft](https://img.shields.io/badge/Mentioned%20in%20Awesome-ComputerCraft-violet?style=for-the-badge&logo=Awesome%20Lists&logoColor=white)](https://github.com/tomodachi94/awesome-computercraft#fun)
+
 YouCube is a service for accessing media providers in ComputerCraft, the popular Minecraft mod that allows players to program in-game computers using the Lua programming language. With YouCube, you can easily stream media from your favorite providers, all from the comfort of your in-game computer.
 
 Whether you're looking to listen to music, watch movies, or catch up on the latest TV shows, YouCube has you covered. Simply install YouCube, enter a URL or search term, and start exploring all that YouCube has to offer.
